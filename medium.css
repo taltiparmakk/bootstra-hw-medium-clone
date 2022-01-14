@@ -1,0 +1,13 @@
+
+*{font-family: 'PT Serif', serif;}
+.bg-yellow {
+    background-color: #FFB717; 
+}
+.br-dark{border-bottom : 1px solid #414141;}
+.fs-4{font-size: 80px;}
+.fs-1{font-size:20px;}
+.asidelinks>li{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.image{padding-bottom: 10px;}
